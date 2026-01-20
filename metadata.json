@@ -1,0 +1,1039 @@
+{
+  "name": "SkyCenter Export",
+  "version": "3.0",
+  "projects": [
+    {
+      "id": "p-squid",
+      "name": "Squid",
+      "description": "Équipe Squid - Expertise Backend & Cloud",
+      "members": [
+        {
+          "id": "sq-1",
+          "name": "Pierre",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=sq1",
+          "email": "pierre@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 5
+            },
+            {
+              "name": "AWS",
+              "level": 3
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "sq-2",
+          "name": "Pierre Nicolas",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=sq2",
+          "email": "p.nicolas@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 5
+            },
+            {
+              "name": "Python",
+              "level": 3
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "sq-3",
+          "name": "Garion",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=sq3",
+          "email": "garion@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 3
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 5
+            },
+            {
+              "name": "Node",
+              "level": 3
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-cles",
+      "name": "CLES",
+      "description": "Équipe CLES - Solutions de Sécurité",
+      "members": [
+        {
+          "id": "cl-1",
+          "name": "Leo",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=cl1",
+          "email": "leo@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "cl-2",
+          "name": "Mathieu T",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=cl2",
+          "email": "m.t@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 3
+            },
+            {
+              "name": "Python",
+              "level": 5
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 5
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "cl-3",
+          "name": "Charlotte",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=cl3",
+          "email": "charlotte@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 5
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 3
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-mes",
+      "name": "MES",
+      "description": "Équipe MES - Manufacturing Execution Systems",
+      "members": [
+        {
+          "id": "me-1",
+          "name": "Yohan",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=me1",
+          "email": "yohan@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "me-2",
+          "name": "Victor",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=me2",
+          "email": "victor@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 5
+            },
+            {
+              "name": "Python",
+              "level": 3
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 3
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-myad",
+      "name": "My_AD",
+      "description": "Équipe My_AD - Active Directory Tools",
+      "members": [
+        {
+          "id": "my-1",
+          "name": "Robin",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=my1",
+          "email": "robin@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 5
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "my-2",
+          "name": "Cyril",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=my2",
+          "email": "cyril@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 5
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "my-3",
+          "name": "Diane",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=my3",
+          "email": "diane@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 5
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 3
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "my-4",
+          "name": "Akram",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=my4",
+          "email": "akram@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 3
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 5
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "my-5",
+          "name": "Jonathan",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=my5",
+          "email": "jonathan@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-mcdb",
+      "name": "MCDB",
+      "description": "Équipe MCDB - Master Customer Data Base",
+      "members": [
+        {
+          "id": "mc-1",
+          "name": "Thomas C",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=mc1",
+          "email": "t.c@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "mc-2",
+          "name": "Samuel",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=mc2",
+          "email": "samuel@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 3
+            },
+            {
+              "name": "Python",
+              "level": 3
+            },
+            {
+              "name": "AWS",
+              "level": 5
+            },
+            {
+              "name": "Node",
+              "level": 5
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-decade",
+      "name": "DECADE X",
+      "description": "Équipe DECADE X - Innovation",
+      "members": [
+        {
+          "id": "dx-1",
+          "name": "Thomas G",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dx1",
+          "email": "t.g@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dx-2",
+          "name": "Theophane",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dx2",
+          "email": "theo@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 5
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 3
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dx-3",
+          "name": "Julien",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dx3",
+          "email": "julien@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 5
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 3
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dx-4",
+          "name": "Pierrick",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dx4",
+          "email": "pierrick@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 3
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 5
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dx-5",
+          "name": "Mathieu D",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dx5",
+          "email": "m.d@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dx-6",
+          "name": "Sebastien L",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dx6",
+          "email": "s.l@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 5
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-disturbance",
+      "name": "DISTURBANCE",
+      "description": "Équipe Disturbance",
+      "members": [
+        {
+          "id": "di-1",
+          "name": "William",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=di1",
+          "email": "william@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-delw",
+      "name": "DELW",
+      "description": "Équipe DELW",
+      "members": [
+        {
+          "id": "dw-1",
+          "name": "Thibaud",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dw1",
+          "email": "thibaud@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dw-2",
+          "name": "Noé",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dw2",
+          "email": "noe@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dw-3",
+          "name": "Sebastien B",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dw3",
+          "email": "s.b@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dw-4",
+          "name": "Clément apprenti",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dw4",
+          "email": "clement@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 2
+            },
+            {
+              "name": "Python",
+              "level": 2
+            },
+            {
+              "name": "AWS",
+              "level": 2
+            },
+            {
+              "name": "Node",
+              "level": 2
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dw-5",
+          "name": "Vincent",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dw5",
+          "email": "vincent@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dw-6",
+          "name": "Hugo",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dw6",
+          "email": "hugo@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "dw-7",
+          "name": "Sarah",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=dw7",
+          "email": "sarah@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-autre",
+      "name": "Autre",
+      "description": "Collaborateurs transverses",
+      "members": [
+        {
+          "id": "au-1",
+          "name": "Maxime",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=au1",
+          "email": "maxime@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "au-2",
+          "name": "Marion",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=au2",
+          "email": "marion@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        },
+        {
+          "id": "au-3",
+          "name": "Guillaume",
+          "role": "Développeur",
+          "avatar": "https://i.pravatar.cc/150?u=au3",
+          "email": "guillaume@company.com",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": 4
+            },
+            {
+              "name": "Python",
+              "level": 4
+            },
+            {
+              "name": "AWS",
+              "level": 4
+            },
+            {
+              "name": "Node",
+              "level": 4
+            }
+          ],
+          "presence": {
+            "schedule": {}
+          }
+        }
+      ]
+    }
+  ],
+  "offices": [
+    {
+      "id": "off-a",
+      "name": "Bureau 116",
+      "stations": [
+        "Poste 1",
+        "Poste 2",
+        "Poste 3",
+        "Poste 4",
+        "Poste 5",
+        "Poste 6",
+        "Poste 7"
+      ]
+    },
+    {
+      "id": "off-b",
+      "name": "Bureau 116bis",
+      "stations": [
+        "Poste 8",
+        "Poste 9",
+        "Poste 10",
+        "Poste 11",
+        "Poste 12",
+        "Poste 13",
+        "Poste 14",
+        "Poste 15"
+      ]
+    },
+    {
+      "id": "off-c",
+      "name": "Bureau 118",
+      "stations": [
+        "Poste 16",
+        "Poste 17",
+        "Poste 18",
+        "Poste 19"
+      ]
+    },
+    {
+      "id": "off-d",
+      "name": "Bureau 140",
+      "stations": [
+        "Poste 1",
+        "Poste 2",
+        "Poste 3",
+        "Poste 4",
+        "Poste 5",
+        "Poste 6"
+      ]
+    },
+    {
+      "id": "off-e",
+      "name": "Bureau 15",
+      "stations": [
+        "Poste 1",
+        "Poste 2",
+        "Poste 3",
+        "Poste 4",
+        "Poste 5",
+        "Poste 6",
+        "Poste 7",
+        "Poste 8",
+        "Poste 9",
+        "Poste 10",
+        "Poste 11",
+        "Poste 12",
+        "Poste 13",
+        "Poste 14",
+        "Poste 15"
+      ]
+    }
+  ],
+  "requestFramePermissions": [],
+  "description": "Trombinoscope complet importé depuis le plan de charge du plateau."
+}
